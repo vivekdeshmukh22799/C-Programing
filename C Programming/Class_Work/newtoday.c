@@ -8,7 +8,7 @@ void main(){
 
     int m;   
      
-    printf("\n%d",m);    // it will print garbage value
+    printf("\n%d",m);// it will print garbage value
 
 
 }

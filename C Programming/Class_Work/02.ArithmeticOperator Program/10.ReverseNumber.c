@@ -2,7 +2,7 @@
 
 int main() {
 
-  int n=5648, reverse = 0, remainder;
+  int n=1234, reverse, remainder;
 
 //   printf("Enter an integer: ");
 //   scanf("%d", &n);
